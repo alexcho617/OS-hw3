@@ -20,3 +20,6 @@ It returns a result report for each of the executables.
 
 
 # Shortfalls
+Queue in Manager
+Feedback from Worker
+Word Search
