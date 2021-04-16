@@ -3,8 +3,7 @@
 This is one of assignment in from Handong Global Univeristy, Operating Systems class.
 Use of this code is not allowed other than the proffessor and TA's
 
-Link of the Video
-https://www.youtube.com/watch?v=TrLgpDk0O-g&ab_channel=Alexkun
+Link of the Video Demo: https://www.youtube.com/watch?v=GByz-qGU-h0&ab_channel=Alexkun
 
 # How To Run
 Compile both files separately\n
