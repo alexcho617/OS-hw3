@@ -6,6 +6,14 @@ Use of this code is not allowed other than the proffessor and TA's
 Link of the Video
 https://www.youtube.com/watch?v=TrLgpDk0O-g&ab_channel=Alexkun
 
+# How To Run
+Compile both files separately\n
+Run Manager First with following arguments: \n
+./manager <Dir> <key1> <key> \n
+\n
+Run Worker \n
+  ./worker
+
 # pfind
 pfind is consists of manager and a worker. Manager will recognize tasks and distribute them to the workers. A task is to find all the keywords and return them
 
@@ -20,6 +28,8 @@ It returns a result report for each of the executables.
 
 
 # Shortfalls
-Queue in Manager
-Feedback from Worker
-Word Search
+Queue in Manager,
+
+Feedback from Worker,
+
+Word Search,
