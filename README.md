@@ -8,10 +8,10 @@ https://www.youtube.com/watch?v=TrLgpDk0O-g&ab_channel=Alexkun
 
 # How To Run
 Compile both files separately\n
-Run Manager First with following arguments: \n
-./manager <Dir> <key1> <key> \n
-\n
-Run Worker \n
+Run Manager First with following arguments:
+./manager <Dir> <key1> <key>
+
+Run Worker 
   ./worker
 
 # pfind
