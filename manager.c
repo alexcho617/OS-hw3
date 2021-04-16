@@ -1,5 +1,8 @@
 //21800691 Sungjin Cho Operating Systems Homework 3
 //manager.c
+//Please look at the github readme file for execution.
+//must execute manager first
+//Execute worker in separate terminal
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
